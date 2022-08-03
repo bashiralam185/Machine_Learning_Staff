@@ -15,6 +15,7 @@ Visit the <a href="https://techfor-today.com/">main site</a> to understand the a
   <li><a href="https://techfor-today.com/xgboost-algorithm-using-python-hyperparameter-tuning/">XGBoost Algorithm Using Python – Hyperparameter tuning</a></li>
   <li><a href="https://techfor-today.com/lightgbm-using-python-hyperparameter-tuning-of-lightgbm/">LightGBM using Python – Hyperparameter tuning of LightGBM</a></li>
   <li><a href="https://techfor-today.com/catboost-in-python-hyperparameter-tuning-of-catboost/">Catboost in Python – Hyperparameter tuning of CatBoost</a></li>
+  <li><a href="https://techfor-today.com/how-to-detect-and-handle-outliers-in-machine-learning/">How to detect and handle outliers in Machine learning</a></li>
 </ul>
 
 
